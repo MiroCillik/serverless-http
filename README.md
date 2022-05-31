@@ -95,3 +95,7 @@ Pull requests are welcome! Especially test scenarios for different situations an
 ## Further Reading
 
 Here are some [more detailed examples](./docs/EXAMPLES.md) and [advanced configuration options](./docs/ADVANCED.md) as well as [provider-specific documentation](./docs/PROVIDERS.md)
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
